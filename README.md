@@ -22,6 +22,7 @@
    ```r
    install.packages("RCurl"); install.packages("lme4"); install.packages("readxl")
    ```
+   biasanya pop up disuruh pilih server, langsung klik ok saja.
 3. Kalo lancar pasti gak ada error. Coba cek scroll ke atas.
    
    ini contoh selesai install
