@@ -1,31 +1,5 @@
-# Title
+# Pelatihan Meta-Analisis Menggunakan R
 
-```
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\
- incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis \
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore \
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt \
-in culpa qui officia deserunt mollit anim id est laborum.
-```
+# A. Instalasi R
+1. Download di [**sini**](https://cran.r-project.org/bin/windows/base/R-4.0.2-win.exe) atau pergi kelaman [**ini**](https://cran.r-project.org/bin/windows/base/).
 
-## A. Subtitle
-      1. Subsubtitle
-	 i. Subsubtitle
-	    - [ ] todo
-		  * [ ] todo
-		  * [ ] todo
-		  * [ ] todo
-	    - [ ] todo
-		  * [ ] todo
-		  * [ ] todo
-		  * [ ] todo
-
-```
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\
- incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis \
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore \
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt \
-in culpa qui officia deserunt mollit anim id est laborum.
-```
