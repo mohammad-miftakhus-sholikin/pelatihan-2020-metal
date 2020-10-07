@@ -4,7 +4,7 @@
 #Script	: Script_2020_Latihan
 #Author	: Mohammad Miftakhus Sholikin
 #Descr.	: Effect of Antimicrobial Peptide on Broiler Performance: Linear and Linear Mixed Model Evaluation
-#Date   : 12-Mei-2020
+#Date   	: 12-Mei-2020
 
   
 
@@ -24,7 +24,7 @@ library(lme4)
 #offline >> local directory
 #metal_data <- read_excel("Data_2020__AMP_broiler.xlsx")
 #online >> github
-get_url <- getURL("https://raw.githubusercontent.com/mohammad-miftakhus-sholikin/0_2020__Modelling_Database/master/Data_2019__AMP_invivo_broiler_ver1.csv")
+get_url <- getURL("https://raw.githubusercontent.com/mohammad-miftakhus-sholikin/pelatihan-2020-metal/master/Data_2020__AMP_broiler.csv")
 metal_data <- read.csv(text=get_url, sep = ",", dec = ".")
 
 # linear and linear mixed model
