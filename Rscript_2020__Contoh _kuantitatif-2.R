@@ -22,7 +22,7 @@ library(lme4)
 
 # check current directory
 getwd()
-setwd("c:/Users/windows_name/Downloads/pelatihan-2020-metal-master") #check your path especially for this user windows_name
+#setwd("c:/Users/windows_name/Downloads/pelatihan-2020-metal-master") #check your path especially for this user windows_name
 
 # input data
 #offline >> local directory

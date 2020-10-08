@@ -8,6 +8,13 @@
 
   
 
+# install new packages
+wants <- c("RCurl", "readxl", "lme4")
+has <- wants %in% rownames(installed.packages())
+if(any(!has)) install.packages(wants[!has])
+
+
+
 # input library
 library(RCurl)
 library(readxl)
@@ -17,7 +24,7 @@ library(lme4)
 
 # check current directory
 getwd()
-setwd("c:/Users/windows_name/Downloads/pelatihan-2020-metal-master") #check your path especially for this user windows_name
+#setwd("c:/Users/windows_name/Downloads/pelatihan-2020-metal-master") #check your path especially for this user windows_name
 
 
 
