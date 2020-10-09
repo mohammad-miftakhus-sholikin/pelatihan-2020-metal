@@ -72,6 +72,10 @@
 # F. Penjelasan R
 1. Klo tampilannya yang penting tuh ada dua: satu, **r console** buat eksekusi kode jadi klo nulis perintah di sini terus klik enter otomatis nanti langsung dieksekusi (dijalankan perintahnya, ati-ati ya jan di close r consolenya nanti keluar dari program r). Yang kedua tuh, **r script** (ini semacam lembar kerja klo mau nulis kode atau perintah yang banyak, jadi gak repot2x harus ketikin perintah di console). Nah tadi tuh lupa jelasin klo di r console yang ada merah2xnya tuh perintah cuman bisa di ketik satu baris jadi susah klo mau ketik perintah banyak baris, makanya pake r script. Nah lanjut ke rscript ya, di sini tuh bisa nulis perintah berbaris2x jadi aman sebelum dijalankan ke r console. Nah gimana jalaninnya gampang blok kode yang ingin di jalankan lalu klik Ctrl + R, otomatis r consolenya jalan (liatin aja klo jalan biasanya klo ada eror nanti dikasih tau ama r consolenya dan apa aja erornya).
    
+   ini r console
+
    ![r interface 4](images/rconsole4.png)
+   
+   ini r script
    
    ![r interface 5](images/rscript.png)
