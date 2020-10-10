@@ -54,7 +54,7 @@
 2. Untuk memastikan saja, ketikan perintah berikut di r console.
    
    ```r
-   getwd()
+   dir()
    ```
    outputnya nanti ini, klo gak ini coba cek direktory downloadnya tadi. Atau nanti tanya saya sambil di screen shot.
    ```r
