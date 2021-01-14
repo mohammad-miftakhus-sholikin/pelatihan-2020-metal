@@ -1,6 +1,6 @@
 # Pelatihan Meta-Analisis Menggunakan R
 
-# A. Instalasi r
+# A. Instalasi R
 1. Download di [**sini**](https://cran.r-project.org/bin/windows/base/R-4.0.2-win.exe) atau pergi kelaman [**ini**](https://cran.r-project.org/bin/windows/base/). (**NB: file rada gede gan 80an MB**)
 2. Lakukan instalasi pada umumnya (pergi ke folder download -> klik dua kali file instaler -> ikuti petunjuk).
 
@@ -13,16 +13,16 @@
 2. Kemudian ekstrak file "pelatihan-2020-metal.zip".
 
 # C. Install packages yang dibutuhkan buat metal (Langkah ini bisa dilewati lanjut ke D.)
-1. Lihat dulu tampilan program r nya.
+1. Lihat dulu tampilan program R nya.
 
    ![r interface 1](images/rconsole1.png)
 
-   ini tanda klo r console siap diberikan perintah.
+   ini tanda klo R console siap diberikan perintah.
    ```r
    >
    ```
 
-2. Di r console ketikan perintah berikut dan klik enter, "*bagian yang merah*".
+2. Di R console ketikan perintah berikut dan klik enter, "*bagian yang merah*".
    ```r
    install.packages("RCurl"); install.packages("lme4"); install.packages("readxl")
    ```
@@ -45,13 +45,13 @@
    Error in install.packages :
    ```
 
-# D. Menjalankan r dan analisis
-1. Pastikan r nya udah jalan, abis itu ganti diriektorinya dengan cara kilk File -> Change dir.... -> (cari lokasi tadi ekstrak filenya) -> klik ok
+# D. Menjalankan R dan analisis
+1. Pastikan R nya udah jalan, abis itu ganti diriektorinya dengan cara kilk File -> Change dir.... -> (cari lokasi tadi ekstrak filenya) -> klik ok
 
    ![r interface 2](images/rconsole2.png)
 
    ![r interface 3](images/rconsole3.png)
-2. Untuk memastikan saja, ketikan perintah berikut di r console.
+2. Untuk memastikan saja, ketikan perintah berikut di R console.
    
    ```r
    dir()
@@ -70,12 +70,12 @@
 4. Klo udah blok tulisan yang ada dan klik Ctrl + R.
 
 # F. Penjelasan R
-1. Klo tampilannya yang penting tuh ada dua: satu, **r console** buat eksekusi kode jadi klo nulis perintah di sini terus klik enter otomatis nanti langsung dieksekusi (dijalankan perintahnya, ati-ati ya jan di close r consolenya nanti keluar dari program r). Yang kedua tuh, **r script** (ini semacam lembar kerja klo mau nulis kode atau perintah yang banyak, jadi gak repot2x harus ketikin perintah di console). Nah tadi tuh lupa jelasin klo di r console yang ada merah2xnya tuh perintah cuman bisa di ketik satu baris jadi susah klo mau ketik perintah banyak baris, makanya pake r script. Nah lanjut ke rscript ya, di sini tuh bisa nulis perintah berbaris2x jadi aman sebelum dijalankan ke r console. Nah gimana jalaninnya gampang blok kode yang ingin di jalankan lalu klik Ctrl + R, otomatis r consolenya jalan (liatin aja klo jalan biasanya klo ada eror nanti dikasih tau ama r consolenya dan apa aja erornya).
+1. Klo tampilannya yang penting tuh ada dua: satu, **R console** buat eksekusi kode jadi klo nulis perintah di sini terus klik enter otomatis nanti langsung dieksekusi (dijalankan perintahnya, ati-ati ya jan di close R consolenya nanti keluar dari program r). Yang kedua tuh, **R script** (ini semacam lembar kerja klo mau nulis kode atau perintah yang banyak, jadi gak repot2x harus ketikin perintah di console). Nah tadi tuh lupa jelasin klo di R console yang ada merah2xnya tuh perintah cuman bisa di ketik satu baris jadi susah klo mau ketik perintah banyak baris, makanya pake R script. Nah lanjut ke rscript ya, di sini tuh bisa nulis perintah berbaris2x jadi aman sebelum dijalankan ke R console. Nah gimana jalaninnya gampang blok kode yang ingin di jalankan lalu klik Ctrl + R, otomatis R consolenya jalan (liatin aja klo jalan biasanya klo ada eror nanti dikasih tau ama R consolenya dan apa aja erornya).
    
-   ini r console
+   ini R console
 
    ![r interface 4](images/rconsole4.png)
    
-   ini r script
+   ini R script
    
    ![r interface 5](images/rscript.png)
