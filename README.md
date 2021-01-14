@@ -6,7 +6,7 @@
 
    ![cara install](images/cara-install-r-windows.gif)
 
-3. Kalau udah kelar coba cari di start menu ketikan **r** atau cari saja _scrolling_.
+3. Kalau udah kelar coba cari di start menu ketikan **R** atau cari saja _scrolling_.
 
 # B. Download file pelatiahannya
 1. Klik di [sini](https://codeload.github.com/mohammad-miftakhus-sholikin/pelatihan-2020-metal/zip/master). Usahakan downloadnya di folder Downloads pada umumnya.
