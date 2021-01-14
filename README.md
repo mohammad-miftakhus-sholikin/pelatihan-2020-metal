@@ -69,7 +69,7 @@
 3. Abis tuh klik ikon open (di bawahnya menu File), selanjutnya cari nama **Rscript_2020__Contoh _kuantitatif-1.R**.
 4. Klo udah blok tulisan yang ada dan klik Ctrl + R.
 
-# F. Penjelasan R
+# E. Penjelasan R script dan R console
 1. Klo tampilannya yang penting tuh ada dua: satu, **R console** buat eksekusi kode jadi klo nulis perintah di sini terus klik enter otomatis nanti langsung dieksekusi (dijalankan perintahnya, ati-ati ya jan di close R consolenya nanti keluar dari program r). Yang kedua tuh, **R script** (ini semacam lembar kerja klo mau nulis kode atau perintah yang banyak, jadi gak repot2x harus ketikin perintah di console). Nah tadi tuh lupa jelasin klo di R console yang ada merah2xnya tuh perintah cuman bisa di ketik satu baris jadi susah klo mau ketik perintah banyak baris, makanya pake R script. Nah lanjut ke rscript ya, di sini tuh bisa nulis perintah berbaris2x jadi aman sebelum dijalankan ke R console. Nah gimana jalaninnya gampang blok kode yang ingin di jalankan lalu klik Ctrl + R, otomatis R consolenya jalan (liatin aja klo jalan biasanya klo ada eror nanti dikasih tau ama R consolenya dan apa aja erornya).
    
    ini R console
