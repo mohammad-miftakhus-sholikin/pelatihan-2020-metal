@@ -13,7 +13,7 @@ has <- wants %in% rownames(installed.packages())
 if(any(!has)) install.packages(wants[!has])
 
 ## input library
-library(RCurl)
+library(curl)
 library(readxl)
 library(lme4)
 
@@ -29,8 +29,8 @@ getwd()
 ### offline >> local directory
 metal_data <- read_excel("Data_2020__AMP_broiler.xlsx")
 ### online >> github
-get_url <- getURL("https://raw.githubusercontent.com/mohammad-miftakhus-sholikin/pelatihan-2020-metal/master/Data_2020__AMP_broiler.csv")
-metal_data <- read.csv(text=get_url, sep = ",", dec = ".")
+get_url <- curl("https://raw.githubusercontent.com/mohammad-miftakhus-sholikin/pelatihan-2020-metal/master/Data_2020__AMP_broiler.csv")
+metal_data <- read.csv(get_url, sep = ",", dec = ".")
 
 ## model
 ### linear and linear mixed model
