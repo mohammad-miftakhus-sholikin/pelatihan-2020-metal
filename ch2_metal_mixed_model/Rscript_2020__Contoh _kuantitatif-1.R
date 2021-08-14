@@ -37,11 +37,11 @@ metal_data <- read.csv(get_url, sep = ",", dec = ".")
 lm_1 <- lm(bw ~ scale(level), data=metal_data)
 lm_2 <- lmer(bw ~ scale(level) + (1|study), data=metal_data)
 
-## linear mixed model: ord1 and ord2
+### linear mixed model: ord1 and ord2
 lm_ord1 <- lmer(bw ~ scale(level) + (1|study), data=metal_data)
 lm_ord2 <- lmer(bw ~ scale(level) + I((scale(level))^2) + (1|study), data=metal_data)
 
-## linear mixed model: ord1 and ord2 with weight option
+### linear mixed model: ord1 and ord2 with weight option
 lm_ord1 <- lmer(bw ~ scale(level) + (1|study), weights = ~ I(1/b), data=metal_data)
 lm_ord2 <- lmer(bw ~ scale(level) + I((scale(level))^2) + (1|study), weights = ~ I(1/b), data=metal_data)
 
