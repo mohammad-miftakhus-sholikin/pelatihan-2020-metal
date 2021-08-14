@@ -3,7 +3,7 @@
 #Script	: Rscript_2020__Contoh _kuantitatif-1
 #Author	: Mohammad Miftakhus Sholikin
 #Descr.	: Effect of Antimicrobial Peptide on Broiler Performance: Linear Model and Linear Mixed Model Evaluation
-#Date   	: 08-Oktober-2020
+#Date   : 08-Oktober-2020
   
 
 # initialize
