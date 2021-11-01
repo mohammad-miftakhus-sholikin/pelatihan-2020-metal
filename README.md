@@ -1,14 +1,14 @@
 # Pelatihan Meta-Analisis Menggunakan R
 
 # A. Instalasi R
-1. Download di [**sini**](https://cran.r-project.org/bin/windows/base/R-4.0.2-win.exe) atau pergi kelaman [**ini**](https://cran.r-project.org/bin/windows/base/). (**NB: file rada gede gan 80an MB**)
+1. Download di [**sini**](https://cran.r-project.org/bin/windows/base/R-4.0.2-win.exe) atau pergi kelaman [**ini**](https://cran.r-project.org/bin/windows/base/). (**NB: file rada gede gan 80 MB**)
 2. Lakukan instalasi pada umumnya (pergi ke folder download -> klik dua kali file instaler -> ikuti petunjuk).
 
    ![cara install](images/cara-install-r-windows.gif)
 
 3. Kalau udah kelar coba cari di start menu ketikan **R** atau cari saja _scrolling_.
 
-# B. Download file pelatiahannya
+# B. Download file contoh
 1. Klik di [sini](https://codeload.github.com/mohammad-miftakhus-sholikin/pelatihan-2020-metal/zip/master). Usahakan downloadnya di folder Downloads pada umumnya.
 2. Kemudian ekstrak file "pelatihan-2020-metal.zip".
 
