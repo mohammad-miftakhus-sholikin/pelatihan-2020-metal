@@ -12,6 +12,7 @@
 1. Klik di [sini](https://codeload.github.com/mohammad-miftakhus-sholikin/pelatihan-2020-metal/zip/master). Usahakan downloadnya di folder Downloads pada umumnya.
 2. Kemudian ekstrak file "pelatihan-2020-metal.zip".
 3. Satukan file berikut dalam satu folder dengan nama _file_analysis_
+
    a. "Data_2020__AMP_broiler.csv"           
    b. "Data_2020__AMP_broiler.xlsx"                                     
    c. "Rscript_2020__Contoh _kuantitatif_order_1.R"
