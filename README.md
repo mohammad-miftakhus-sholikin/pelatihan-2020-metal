@@ -62,11 +62,11 @@
    [2] "Data_2020__AMP_broiler.xlsx"          
    [3] "images"                               
    [4] "README.md"                            
-   [5] "Rscript_2020__Contoh _kuantitatif-1.R"
-   [6] "Rscript_2020__Contoh _kuantitatif-2.R"
+   [5] "Rscript_2020__Contoh _kuantitatif_order_1.R"
+   [6] "Rscript_2020__Contoh _kuantitatif_order_2.R"
    [7] "Rscript_2020__Contoh_kualitatif.R"
    ```
-3. Abis tuh klik ikon open (di bawahnya menu File), selanjutnya cari nama **Rscript_2020__Contoh _kuantitatif-1.R**.
+3. Abis tuh klik ikon open (di bawahnya menu File), selanjutnya cari nama **Rscript_2020__Contoh _kuantitatif_order_1.R**.
 4. Klo udah blok tulisan yang ada dan klik Ctrl + R.
 
 # E. Penjelasan R script dan R console
