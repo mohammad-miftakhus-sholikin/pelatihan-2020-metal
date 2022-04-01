@@ -13,8 +13,8 @@
 2. Kemudian ekstrak file "pelatihan-2020-metal.zip".
 3. Satukan file berikut dalam satu folder dengan nama _file_analysis_
 
-   a. "Data_2020__AMP_broiler.csv"           
-   b. "Data_2020__AMP_broiler.xlsx"                                     
+   a. "Data_2020__AMP_broiler.csv" 
+   b. "Data_2020__AMP_broiler.xlsx"
    c. "Rscript_2020__Contoh _kuantitatif_order_1.R"
    d. "Rscript_2020__Contoh _kuantitatif_order_2.R"
 
@@ -64,8 +64,8 @@
    ```
    outputnya nanti ini, klo gak ini coba cek direktory downloadnya tadi. Atau nanti tanya saya sambil di screen shot.
    ```r
-   [1] "Data_2020__AMP_broiler.csv"           
-   [2] "Data_2020__AMP_broiler.xlsx"                                     
+   [1] "Data_2020__AMP_broiler.csv" 
+   [2] "Data_2020__AMP_broiler.xlsx"
    [3] "Rscript_2020__Contoh _kuantitatif_order_1.R"
    [4] "Rscript_2020__Contoh _kuantitatif_order_2.R"
    ```
