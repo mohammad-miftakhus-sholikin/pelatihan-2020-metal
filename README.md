@@ -11,6 +11,11 @@
 # B. Download file contoh
 1. Klik di [sini](https://codeload.github.com/mohammad-miftakhus-sholikin/pelatihan-2020-metal/zip/master). Usahakan downloadnya di folder Downloads pada umumnya.
 2. Kemudian ekstrak file "pelatihan-2020-metal.zip".
+3. Satukan file berikut dalam satu folder dengan nama _file_analysis_
+   a. "Data_2020__AMP_broiler.csv"           
+   b. "Data_2020__AMP_broiler.xlsx"                                     
+   c. "Rscript_2020__Contoh _kuantitatif_order_1.R"
+   d. "Rscript_2020__Contoh _kuantitatif_order_2.R"
 
 # C. Install packages yang dibutuhkan buat metal (Langkah ini bisa dilewati lanjut ke D.)
 1. Lihat dulu tampilan program R nya.
@@ -59,12 +64,9 @@
    outputnya nanti ini, klo gak ini coba cek direktory downloadnya tadi. Atau nanti tanya saya sambil di screen shot.
    ```r
    [1] "Data_2020__AMP_broiler.csv"           
-   [2] "Data_2020__AMP_broiler.xlsx"          
-   [3] "images"                               
-   [4] "README.md"                            
-   [5] "Rscript_2020__Contoh _kuantitatif_order_1.R"
-   [6] "Rscript_2020__Contoh _kuantitatif_order_2.R"
-   [7] "Rscript_2020__Contoh_kualitatif.R"
+   [2] "Data_2020__AMP_broiler.xlsx"                                     
+   [3] "Rscript_2020__Contoh _kuantitatif_order_1.R"
+   [4] "Rscript_2020__Contoh _kuantitatif_order_2.R"
    ```
 3. Abis tuh klik ikon open (di bawahnya menu File), selanjutnya cari nama **Rscript_2020__Contoh _kuantitatif_order_1.R**.
 4. Klo udah blok tulisan yang ada dan klik Ctrl + R.
