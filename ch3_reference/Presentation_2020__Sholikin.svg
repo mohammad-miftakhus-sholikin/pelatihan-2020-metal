@@ -5931,20 +5931,15 @@
       </g>
       <text
          id="text1376"
-         y="153.82188"
-         x="88.712196"
-         style="font-style:normal;font-weight:normal;font-size:7.94362px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.19859"
+         y="158.25214"
+         x="89.242264"
+         style="font-style:normal;font-weight:normal;font-size:6.76526px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.169131"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.19859"
-           y="153.82188"
-           x="88.712196"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.169131"
+           y="158.25214"
+           x="89.242264"
            sodipodi:role="line"
-           id="tspan1372">Level</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.19859"
-           y="163.7514"
-           x="88.712196"
-           sodipodi:role="line"
-           id="tspan1374">PAM</tspan></text>
+           id="tspan1374">Tabulasi</tspan></text>
     </g>
     <g
        style="display:inline"
@@ -5986,7 +5981,7 @@
            y="135.78603"
            x="91.41008"
            sodipodi:role="line"
-           id="tspan1388">Performa</tspan></text>
+           id="tspan1388">Analisis</tspan></text>
     </g>
     <g
        style="display:inline"
@@ -6028,7 +6023,7 @@
            y="138.17209"
            x="90.845947"
            sodipodi:role="line"
-           id="tspan1402">Broiler</tspan></text>
+           id="tspan1402">Data</tspan></text>
     </g>
   </g>
 </svg>
