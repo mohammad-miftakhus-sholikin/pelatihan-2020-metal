@@ -9,7 +9,7 @@
    id="svg8"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="Bahan_2020__Sholikin.svg"
-   inkscape:export-filename="C:\Users\moham\Desktop\Work\pelatihan-2020-metal\ch3_reference\2022__bahan presentasi\2022__bhn_pc17.png"
+   inkscape:export-filename="C:\Users\moham\Desktop\Work\pelatihan-2020-metal\ch3_reference\2022__bahan presentasi\2022__bhn_pc18.png"
    inkscape:export-xdpi="150.00539"
    inkscape:export-ydpi="150.00539"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -88,7 +88,7 @@
      inkscape:cx="561.64855"
      inkscape:cy="396.85039"
      inkscape:document-units="cm"
-     inkscape:current-layer="g37825"
+     inkscape:current-layer="g3524"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="991"
@@ -2387,7 +2387,7 @@
      inkscape:groupmode="layer"
      id="g37825"
      transform="translate(0,-87)"
-     style="display:inline;opacity:1">
+     style="display:none;opacity:1">
     <circle
        style="fill:none;stroke:#000000;stroke-width:1.56409;stroke-miterlimit:4;stroke-dasharray:4.69227, 4.69227;stroke-dashoffset:0"
        id="circle37710"
@@ -7039,6 +7039,149 @@
              x="88.865761"
              sodipodi:role="line"
              id="tspan18083">1. TOPIK</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g3524"
+     inkscape:label="Meta-analisis 2d"
+     style="display:inline">
+    <g
+       id="g11802"
+       transform="translate(-20.377622,6.3493047)">
+      <g
+         id="g2882"
+         transform="matrix(1.2729599,0,0,1.2729599,117.40907,-137.92148)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2868"
+           d="m 64.974891,202.31251 c -29.605955,12.43799 -51.624495,-7.5139 -52.240092,-30 0.0073,-16.26071 9.860157,-29.06876 19.330743,-36.13509 -16.252498,4.48821 -26.9981604,19.27394 -26.999434,36.13478 -6.91e-5,20.70538 16.78498,37.49044 37.490366,37.49037 8.084951,-0.0141 15.948737,-2.64137 22.418417,-7.49006 z"
+           style="fill:none;stroke:none;stroke-width:0.373154"
+           sodipodi:nodetypes="cccccc" />
+        <circle
+           transform="rotate(-78.62151)"
+           r="37.490253"
+           cy="78.750648"
+           cx="-162.25912"
+           id="circle2870"
+           style="fill:#aa0000;stroke:none;stroke-width:4.59773;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2872"
+           d="m 10.206255,162.09761 c 17.766307,-26.75022 47.148886,-22.32777 60.11215,-3.94415 8.997545,13.54455 7.88481,29.66555 3.911182,40.79369 11.048533,-12.73647 11.80967,-30.99867 2.474812,-45.03962 -11.464598,-17.24169 -34.735692,-21.92488 -51.977307,-10.46016 -6.72464,4.48841 -11.546095,8.63464 -14.520837,18.65024 z"
+           style="fill:#800000;stroke:none;stroke-width:0.373154"
+           sodipodi:nodetypes="cccccc" />
+        <text
+           id="text2876"
+           y="175.71402"
+           x="12.421696"
+           style="font-style:normal;font-weight:normal;font-size:19.9197px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.49799"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.49799"
+             y="175.71402"
+             x="12.421696"
+             id="tspan2874"
+             sodipodi:role="line">META</tspan></text>
+        <text
+           id="text2880"
+           y="187.67287"
+           x="12.144667"
+           style="font-style:normal;font-weight:normal;font-size:12.1258px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.303145"
+           xml:space="preserve"
+           transform="scale(1.0002531,0.99974696)"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.303145"
+             y="187.67287"
+             x="12.144667"
+             id="tspan2878"
+             sodipodi:role="line">ANALISIS</tspan></text>
+      </g>
+      <g
+         style="display:inline"
+         id="g3026"
+         transform="matrix(1.1880668,0,0,1.1880668,81.915309,-44.98576)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3014"
+           d="m 99.777954,168.97538 c -13.440466,5.64658 -23.436407,-3.41115 -23.715875,-13.61935 0.0034,-7.38201 4.476298,-13.19659 8.77574,-16.40455 -7.378283,2.03755 -12.256581,8.74995 -12.25716,16.40441 -3.1e-5,9.39979 7.620019,17.01985 17.019816,17.01982 3.670396,-0.006 7.240383,-1.19914 10.177479,-3.40033 z"
+           style="fill:none;stroke:none;stroke-width:0.169404"
+           sodipodi:nodetypes="cccccc" />
+        <g
+           id="g3020"
+           transform="matrix(-0.55595933,0.31757134,-0.31757134,-0.55595933,183.04771,199.93941)">
+          <circle
+             style="fill:#f4d7d7;stroke:none;stroke-width:3.26;stroke-miterlimit:4;stroke-dasharray:none"
+             id="circle3016"
+             cx="-3.4417033"
+             cy="-161.55928"
+             r="26.582277"
+             transform="rotate(146.45797)" />
+          <path
+             sodipodi:nodetypes="cccccc"
+             style="fill:#e9afaf;stroke:none;stroke-width:0.264583"
+             d="m 107.8829,153.87554 c -20.991957,8.8191 -36.604093,-5.32769 -37.040579,-21.27134 0.0052,-11.52957 6.991295,-20.61106 13.706367,-25.6214 -11.523753,3.18234 -19.142911,13.66609 -19.143814,25.62118 -4.9e-5,14.68104 11.901306,26.58241 26.582357,26.58236 5.732597,-0.01 10.207149,-0.56515 15.895669,-5.3108 z"
+             id="path3018"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           id="text3024"
+           y="154.88072"
+           x="88.739723"
+           style="font-style:normal;font-weight:normal;font-size:8.39802px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.209951"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.209951"
+             y="154.88072"
+             x="88.739723"
+             sodipodi:role="line"
+             id="tspan3022">Gel. 1</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.209951"
+             y="165.37825"
+             x="88.739723"
+             sodipodi:role="line"
+             id="tspan9436">2022</tspan></text>
+      </g>
+      <g
+         id="g2866"
+         transform="matrix(1.0418201,0,0,1.0418201,46.438588,-4.3231629)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2852"
+           d="m 107.8829,153.87554 c -20.991957,8.8191 -36.604093,-5.32769 -37.040579,-21.27134 0.0052,-11.52957 6.991295,-20.61106 13.706367,-25.6214 -11.523753,3.18234 -19.142911,13.66609 -19.143814,25.62118 -4.9e-5,14.68104 11.901306,26.58241 26.582357,26.58236 5.732597,-0.01 11.308369,-1.87286 15.895669,-5.3108 z"
+           style="fill:none;stroke:none;stroke-width:0.264583"
+           sodipodi:nodetypes="cccccc" />
+        <g
+           id="g2858"
+           transform="rotate(-160.99938,92.11733,132.69743)">
+          <circle
+             style="fill:#f4d7d7;stroke:none;stroke-width:3.26;stroke-miterlimit:4;stroke-dasharray:none"
+             id="circle2854"
+             cx="28.720495"
+             cy="-159.02321"
+             r="26.582277"
+             transform="rotate(135)" />
+          <path
+             sodipodi:nodetypes="cccccc"
+             style="fill:#e9afaf;stroke:none;stroke-width:0.264583"
+             d="m 107.8829,153.87554 c -20.991957,8.8191 -36.604093,-5.32769 -37.040579,-21.27134 0.0052,-11.52957 6.991295,-20.61106 13.706367,-25.6214 -11.523753,3.18234 -19.142911,13.66609 -19.143814,25.62118 -4.9e-5,14.68104 11.901306,26.58241 26.582357,26.58236 5.732597,-0.01 10.207149,-0.56515 15.895669,-5.3108 z"
+             id="path2856"
+             inkscape:connector-curvature="0" />
+        </g>
+        <text
+           id="text2864"
+           y="130.7337"
+           x="91.043968"
+           style="font-style:normal;font-weight:normal;font-size:10.8242px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.270605"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.270605"
+             y="130.7337"
+             x="91.043968"
+             sodipodi:role="line"
+             id="tspan2862">PR ORPP</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.270605"
+             y="144.26395"
+             x="91.043968"
+             sodipodi:role="line"
+             id="tspan6812">BRIN</tspan></text>
       </g>
     </g>
   </g>
